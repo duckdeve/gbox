@@ -1,0 +1,40 @@
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+        <dict>
+            <key>items</key>
+            <array>
+                <dict>
+                    <key>assets</key>
+                    <array>
+                        <dict>
+                            <key>kind</key>
+                            <string>software-package</string>
+                            <key>url</key>
+                            <string>https://files.catbox.moe/zllpaf.ipa</string>
+                        </dict>
+                        <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/e0/cf/6ee0cfc6-39c7-33f7-0acb-01b712d5feca/logo_youtube_color-1x_U007emarketing-0-6-0-0-85-220-0.png/100x100bb.jpg</string>
+                        </dict>
+                    </array>
+                    <key>metadata</key>
+                    <dict>
+                        <key>bundle-identifier</key>
+                        <string>com.2994B179-CB6A-4DE2-9AC0-3BD567A5B7EA</string>
+                        <key>bundle-version</key>
+                        <string>1.0</string>
+                        <key>kind</key>
+                        <string>software</string>
+                        <key>title</key>
+                        <string>Youtube</string>
+                    </dict>
+                </dict>
+            </array>
+        </dict>
+    </plist>
