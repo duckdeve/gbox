@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>ServerAddresses</key>
+			<array>
+				<string>2a06:98c1:54::15:eca1</string>
+			</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Lọc qua máy chủ🅿️</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.clib</string>
+			<key>PayloadOrganization</key>
+			<string>chúa hề</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>unice-w</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>ServerAddresses</key>
+				<array/>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>ocsp.apple.com</string>
+					<string>ocsp2.apple.com</string>
+					<string>vipads.live</string>
+					<string>*.googleads.g.doubleclick.net</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Lọc trực tiếp📵</string>
+			<key>PayloadIdentifier</key>
+			<string>net.gamevn.apple-dns.star</string>
+			<key>PayloadOrganization</key>
+			<string>chúa hề</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>unice-7</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Chú ý
+
+Bật: Anti revoke cert-Nên nhé
+
+Turn on: Anti revoke certificate - Should be</string>
+	<key>PayloadDisplayName</key>
+	<string>Bộ lọc Quảng Cáo&Trực tiếp</string>
+	<key>PayloadIdentifier</key>
+	<string>net.gamevn.apple-dns.clib5</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>uniqur-1</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
